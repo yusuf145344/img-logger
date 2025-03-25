@@ -7,11 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://api.weblutions.com/discord/invite/vsc">
-    <img src="https://api.weblutions.com/discord/invite/vsc" alt="WraithsDev #CodeShare" />
-  </a>
+  discord.gg/vsc
 </p>
-
 
 <p align="center">
   Botun Kurulumu ve Tanıtım Videosu
