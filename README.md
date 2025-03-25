@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  discord.gg/vsc
+  https://discord.com/invite/vsc
 </p>
 
 <p align="center">
